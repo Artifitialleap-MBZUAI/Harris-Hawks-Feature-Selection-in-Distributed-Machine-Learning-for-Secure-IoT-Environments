@@ -4,11 +4,12 @@ The development of the Internet of Things (IoT) has dramatically expanded in our
 Distributed Machine Learning (ML) aims to train models locally on edge devices without sharing data to a central server. Therefore, we apply the proposed approach using centralized and distributed ML models. Both learning models are evaluated under two benchmark datasets for IoT botnet attacks and compared with other well-known classification techniques using different evaluation indicators. 
 The experimental results of the proposed method show an improvement in terms of accuracy, precision, recall, and F-measure in most cases. The proposed method achieves an average F-measure up to 99.9\%. More so, the results show that the distributed ML model achieves competitive performance against centralized ML while maintaining data locally.
 
-Datasets: 1. https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT
-          2. https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning
+**Datasets:**
+1. https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT
+2. https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning
 
 
-Authors:
+**Authors:**
 
 Neveen Mohammad Hijazi, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. E-mail: neveen.hijazi@mbzuai.ac.ae
 
